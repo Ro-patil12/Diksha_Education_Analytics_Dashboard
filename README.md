@@ -1,2 +1,4 @@
 # Diksha_Education_Analytics_Dashboard
-Power BI dashboard analyzing India’s digital education data. Tracks user engagement, learning activity, and course performance across states. Provides insights on enrolments, completions, and content usage to support data-driven decisions in education initiatives.
+This project presents a comprehensive analysis of digital education usage across India using Power BI. It focuses on user engagement, learning activity, and course consumption trends across states and over time.
+The dashboard enables stakeholders to monitor platform performance, identify high-engagement regions, and track the effectiveness of digital learning initiatives.
+
