@@ -9,3 +9,18 @@ stakeholders need a centralized system to -
 •	Evaluate digital education adoption 
 This dashboard solves these challenges by providing interactive and real-time insights.
 
+Key Metrics :
+User Metrics - 
+•	Registered Users: 16.16M 
+•	Daily Active Users: 58K 
+Learning Metrics - 
+•	Learning Sessions: 5,586M 
+•	Learning Minutes: 64,560M 
+Content Metrics
+•	Energized Textbooks: 7582
+•	E-Contents: 367K
+Course Metrics -
+•	Enrolments: 186M 
+•	Completions: 147M 
+•	Certificates Issued: 127M 
+•	Total Courses: 613 
